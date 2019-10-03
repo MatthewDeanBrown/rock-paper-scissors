@@ -1,0 +1,59 @@
+.game {
+  text-align: center;
+  display:flex;
+  justify-content:center;
+}
+.button{
+  text-align: center;
+}
+
+button{
+  margin:1%;
+  background-color: #fffdd0;
+  color:midnightblue;
+  padding: 5px;
+} 
+
+img{
+  height: 265px;
+  width: 265px;
+  border-radius: 25px
+}
+
+.player{
+  background-color: gainsboro;
+  border-radius: 5px;
+  height: 265px;
+  width: 265px;
+  margin: 5%;
+}
+
+li {
+  display: inline-block;
+  margin: 1%;
+} 
+.NavLink {
+  text-decoration: none;
+  color:midnightblue;
+  font-weight: bolder;
+}
+
+nav{
+  padding: 10px;
+  background-color: #fffdd0;
+}
+
+h1,
+h3,
+.help{
+  color: midnightblue;
+  background-color: #fffdd0;
+  padding: 10px;
+  text-align: center;
+}
+
+.RunGame{
+  padding: 10px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bold
+}
